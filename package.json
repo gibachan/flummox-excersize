@@ -1,0 +1,21 @@
+{
+  "name": "flummox-excersize",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "babelify": "^6.0.2",
+    "browserify": "^9.0.8",
+    "gulp": "^3.8.11",
+    "vinyl-source-stream": "^1.1.0"
+  },
+  "dependencies": {
+    "flummox": "^4.0.0-alpha",
+    "react": "^0.13.2"
+  }
+}
